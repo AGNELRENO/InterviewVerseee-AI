@@ -1,0 +1,6 @@
+{
+  "name": "InterviewPrep AI",
+  "description": "An AI-powered personalized interview preparation web app with Master Orchestrator Agent, webcam proctoring, live tracking dashboard, voice assistant, and adaptive learning.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
